@@ -7,9 +7,9 @@
 
 - 🎓 B.Tech CSE Student
 - 💻 Learning Full Stack Development & Applied AI
-- 📈 Exploring Stock Market Trading
 - 🧠 Currently mastering:
   - C Programming
+  - python programming 
   - DSA
   - Frontend Development
   - AI Tools & Workflows
@@ -43,7 +43,6 @@
 - React Ecosystem
 - AI Integration in Web Apps
 - Backend Development
-- Trading Psychology & Market Analysis
 
 ---
 
