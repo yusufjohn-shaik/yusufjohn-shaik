@@ -93,7 +93,6 @@ Frontend Developer • AI Explorer • CSE Student • Future Startup Founder
 <img src="https://img.shields.io/badge/Frontend-0ea5e9?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/AI-7c3aed?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Backend-059669?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Trading-f59e0b?style=for-the-badge"/>
 
 </p>
 
