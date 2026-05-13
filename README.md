@@ -1,74 +1,59 @@
-<h1 align="center">Hey 👋, I'm Yusuf John</h1>
-<h3 align="center">CSE Student | Frontend Developer | AI Explorer | Future Startup Founder</h3>
+<h1 align="center">Hey 👋 I'm Yusuf John</h1>
 
----
-
-## 🚀 About Me
-
-- 🎓 B.Tech CSE Student
-- 💻 Learning Full Stack Development & Applied AI
-- 🧠 Currently mastering:
-  - C Programming
-  - python programming 
-  - DSA
-  - Frontend Development
-  - AI Tools & Workflows
-- 🏗 Building projects to become industry-ready before graduation
-- 🎯 Goal: Build a successful tech startup
-
----
-
-## 🛠 Tech Stack
-
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,python" />
-</p>
-
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
-</p>
-
-### Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-</p>
-
----
-
-## 📚 Currently Learning
-
-- Advanced DSA
-- React Ecosystem
-- AI Integration in Web Apps
-- Backend Development
-
----
-
-## 🔥 GitHub Stats
+<h3 align="center">
+Frontend Developer • AI Explorer • CSE Student • Future Startup Founder
+</h3>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yusufjohn-shaik&theme=tokyonight" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+My+Future+One+Project+At+A+Time;Frontend+Developer+%7C+AI+Explorer;Learning+DSA+%2B+Building+Real+Projects;Future+Tech+Startup+Founder" />
 </p>
 
+---
+
+# 🚀 About Me
+
+- 🎓 B.Tech CSE Student
+- 💻 Frontend Developer
+- 🧠 Learning AI + DSA + Full Stack
+- 📈 Exploring Trading & Financial Markets
+- ⚡ Building projects consistently
+- 🎯 Goal: Build a successful startup before graduation
 
 ---
 
-## 🌱 2026 Goals
+# 🛠 Tech Stack
 
-- Build strong GitHub profile
-- Contribute to Open Source
-- Create real-world AI projects
-- Master DSA
-- Start freelancing
-- Launch a startup before graduation
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html,css,react,tailwind,nodejs,mongodb,git,github,vscode" />
+</p>
 
 ---
 
-## 📫 Connect With Me
+# 📊 GitHub Stats
 
-<p>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yusufjohn-shaik&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufjohn-shaik&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=yusufjohn-shaik&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yusufjohn-shaik/yusufjohn-shaik/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
   <a href="https://github.com/yusufjohn-shaik">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
@@ -76,4 +61,6 @@
 
 ---
 
-<h3 align="center">⚡ "Discipline beats motivation when pressure hits."</h3>
+<h3 align="center">
+"Discipline creates freedom."
+</h3>
