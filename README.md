@@ -51,9 +51,9 @@ Frontend Developer • AI Explorer • CSE Student • Future Startup Founder
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yusufjohn-shaik&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yusufjohn-shaik&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufjohn-shaik&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufjohn-shaik&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 
 </p>
 
@@ -62,7 +62,6 @@ Frontend Developer • AI Explorer • CSE Student • Future Startup Founder
 <img src="https://streak-stats.demolab.com?user=yusufjohn-shaik&theme=tokyonight&hide_border=true"/>
 
 </p>
-
 ---
 
 # 📈 Contribution Graph
