@@ -19,7 +19,6 @@ Frontend Developer • AI Explorer • CSE Student • Future Startup Founder
 - 🎓 B.Tech CSE Student
 - 💻 Frontend Developer
 - 🧠 Learning DSA + AI + Full Stack
-- 📈 Exploring Trading & Financial Markets
 - 🚀 Building Real Projects
 - ⚡ Goal: Become Industry Ready Before Graduation
 - 🎯 Dream: Build A Successful Tech Startup
@@ -96,7 +95,6 @@ Frontend Developer • AI Explorer • CSE Student • Future Startup Founder
 - 🚀 Build Strong Projects
 - 🧠 Master DSA
 - 💻 Become Full Stack Developer
-- 📈 Learn Professional Trading
 - 🌍 Build Online Presence
 - 💼 Start Freelancing
 - 🏗️ Launch Startup Before Graduation
