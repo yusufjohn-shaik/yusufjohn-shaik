@@ -46,7 +46,7 @@ Frontend Developer • AI Explorer • CSE Student • Future Startup Founder
 
 ---
 
-# 📊 GitHub Stats
+<!-- # 📊 GitHub Stats
 
 <p align="center">
 
@@ -54,7 +54,7 @@ Frontend Developer • AI Explorer • CSE Student • Future Startup Founder
 
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yusufjohn-shaik&layout=compact&theme=tokyonight"/>
 
-</p>
+</p>  -->
 ---
 
 # 📈 Contribution Graph
