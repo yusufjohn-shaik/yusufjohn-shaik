@@ -5,7 +5,7 @@
 
 <!-- Typing SVG Subtitle -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Frontend+%26+Full-Stack+Developer;B.Tech+CSE+Student+%7C+Problem+Solver;Daily+LeetCode+%26+DSA+Practitioner;AI+%26+Applied+ML+Explorer;Building+Scalable+Products+%7C+Future+Founder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=780&lines=Frontend+%26+Full-Stack+Engineer;B.Tech+CSE+Undergrad+%7C+Problem+Solver;Daily+LeetCode+%26+DSA+Practitioner;Applied+AI+%26+Automation+Enthusiast;Building+Scalable+Products+%7C+Future+Founder" alt="Typing SVG" />
 </p>
 
 <!-- Social & Profile Badges -->
@@ -34,15 +34,15 @@
   <tr>
     <td width="65%" valign="top">
       <p>
-        Hey there! 👋 I'm <b>Shaik Yusuf John</b>, a Computer Science & Engineering undergraduate, frontend engineer, and aspiring tech entrepreneur passionate about crafting intuitive, high-performance web applications and solving algorithmic problems.
+        Hi there! 👋 I'm <b>Shaik Yusuf John</b>, a Computer Science & Engineering undergraduate, full-stack engineer, and aspiring tech entrepreneur passionate about crafting high-performance, accessible web applications and architecting clean software solutions.
       </p>
       <ul>
         <li>🎓 <b>Education:</b> B.Tech in Computer Science & Engineering</li>
-        <li>💻 <b>Core Focus:</b> Modern Frontend & Full-Stack Web Development</li>
+        <li>💻 <b>Core Domain:</b> Modern Frontend & Full-Stack Web Development</li>
         <li>🧠 <b>Problem Solving:</b> Daily DSA practice on <a href="https://leetcode.com/u/shaikyusufjohn/">LeetCode</a> (C++, TypeScript)</li>
-        <li>🤖 <b>Interests:</b> Applied AI, Automation, and Scalable Web Architectures</li>
-        <li>🚀 <b>Mission:</b> Build production-ready projects and launch innovative startups</li>
-        <li>⚡ <b>Motto:</b> <i>"Consistency compounds harder than talent."</i></li>
+        <li>🤖 <b>Tech Focus:</b> Applied AI, Automation Workflows, and Scalable Backend Systems</li>
+        <li>🚀 <b>Goal:</b> Build production-ready software, contribute to open source, and launch innovative tech ventures</li>
+        <li>⚡ <b>Philosophy:</b> <i>"Consistency compounds harder than talent."</i></li>
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
@@ -51,9 +51,19 @@
   </tr>
 </table>
 
+<details>
+<summary><b>📚 Computer Science Fundamentals & Core Competencies</b> (Click to expand)</summary>
+<br/>
+
+- **Core Subjects:** Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), Database Management Systems (DBMS), Operating Systems (OS), Computer Networks (CN).
+- **Architecture & Practices:** RESTful API Design, MVC Pattern, Modular Component Design, Responsive UI/UX, Version Control with Git.
+- **Problem Solving Strengths:** Arrays & Strings, Two Pointers, Sliding Window, Trees, Graphs, Dynamic Programming, and Recursion.
+
+</details>
+
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Tech Stack & Tooling
 
 <div align="center">
 
@@ -64,21 +74,21 @@
   </a>
 </p>
 
-#### ⚛️ Frontend & Frameworks
+#### ⚛️ Frontend & UI Frameworks
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite&theme=dark" alt="Frontend" />
   </a>
 </p>
 
-#### ⚙️ Backend & Databases
+#### ⚙️ Backend, APIs & Databases
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql,postgres&theme=dark" alt="Backend" />
   </a>
 </p>
 
-#### 🧰 Tools & Platforms
+#### 🧰 Developer Tools & Environment
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,figma&theme=dark" alt="Tools" />
@@ -89,7 +99,17 @@
 
 ---
 
-### 🌟 Featured Projects
+### 🚀 Highlighted Projects
+
+| Project | Highlights & Overview | Tech Stack | Link |
+| :--- | :--- | :--- | :---: |
+| 🧬 **Project Helix** | Full-Stack DBMS web application with relational database architecture, real-time request handling, and intuitive administrative dashboard. | `Python` `Flask` `MySQL` `HTML/CSS` | [🔗 View Repository](https://github.com/yusufjohn-shaik/project-Helix) |
+| ⚡ **DSA Mastery Prep** | Curated collection of solved algorithmic challenges, time/space complexity optimizations, and LeetCode problem patterns. | `C++` `TypeScript` `Algorithms` | [🔗 View Repository](https://github.com/yusufjohn-shaik/dsa-prep) |
+| 💳 **Razorpay Revenue Recovery** | Automated payment analytics & smart recovery workflow tool designed to reduce revenue loss from recurring billing failures. | `Python` `Payment APIs` `Automation` | [🔗 View Repository](https://github.com/yusufjohn-shaik/razorpay-revenue-recovery) |
+| 🌐 **Modern Developer Portfolio** | Responsive personal portfolio site built with sleek animations, interactive component states, and seamless contact integrations. | `React.js` `Tailwind CSS` `Vite` | [🔗 View Repository](https://github.com/yusufjohn-shaik/portfolio) |
+| 🔐 **Flask Authentication System** | Production-ready user authentication system featuring session handling, salted password hashing, and user role validation. | `Python` `Flask` `SQLite/MySQL` | [🔗 View Repository](https://github.com/yusufjohn-shaik/flask-login-signup-system) |
+
+<br/>
 
 <div align="center">
 
@@ -98,15 +118,6 @@
 </a>
 <a href="https://github.com/yusufjohn-shaik/dsa-prep">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=yusufjohn-shaik&repo=dsa-prep&theme=tokyonight&bg_color=0d1117&border_color=38bdf8&title_color=38bdf8" />
-</a>
-
-<br/>
-
-<a href="https://github.com/yusufjohn-shaik/razorpay-revenue-recovery">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yusufjohn-shaik&repo=razorpay-revenue-recovery&theme=tokyonight&bg_color=0d1117&border_color=38bdf8&title_color=38bdf8" />
-</a>
-<a href="https://github.com/yusufjohn-shaik/portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yusufjohn-shaik&repo=portfolio&theme=tokyonight&bg_color=0d1117&border_color=38bdf8&title_color=38bdf8" />
 </a>
 
 </div>
@@ -128,6 +139,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yusufjohn-shaik&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" height="175" alt="GitHub Streak" />
 </p>
 
+<!-- Productive Time & Commit Activity -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yusufjohn-shaik&theme=tokyonight&utcOffset=5.5" height="180" alt="Productive Time" />
+</p>
+
 <!-- LeetCode Card -->
 <p align="center">
   <a href="https://leetcode.com/u/shaikyusufjohn/" target="_blank">
@@ -147,7 +163,15 @@
 
 ---
 
-### 🎯 2026 Roadmap & Objectives
+### 💡 Daily Developer Inspiration
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Dev Quote" />
+</div>
+
+---
+
+### 🎯 2026 Roadmap & Milestones
 
 - [x] 🚀 Build and ship production-ready web applications
 - [x] ⚡ Maintain daily streak on LeetCode & algorithmic challenges
