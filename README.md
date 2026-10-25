@@ -1,96 +1,130 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e40af,100:0284c7&height=220&section=header&text=Shaik%20Yusuf%20John&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Header Banner" />
+<!-- Konoha Hokage Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090a0f,40:b91c1c,70:ea580c,100:f59e0b&height=240&section=header&text=Shaik%20Yusuf%20John&fontSize=40&fontColor=ffffff&desc=%E3%80%90%20%E6%9C%A8%E3%83%8E%E8%91%89%E9%9A%A0%E3%82%8C%20%E2%80%A2%20HOKAGE-LEVEL%20SOFTWARE%20ENGINEER%20%E3%80%91&descSize=16&descAlignY=62&fontAlignY=36" alt="Konoha Hokage Banner" />
 
-<!-- Typing Subtitle -->
+<!-- Typing Shinobi Subtitle -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=Software+Engineer+%E2%80%A2+Full-Stack+Developer;B.Tech+Computer+Science+%26+Engineering;Data+Structures+%26+Algorithms+Practitioner;Applied+AI+%26+Web+Architectures;Building+Clean%2C+Scalable+Software+Solutions" alt="Typing Subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F59E0B&center=true&vCenter=true&width=800&lines=%E3%80%8C+%E5%BF%8D%E9%81%93+%E3%80%8D+Never+Back+Down+From+A+Bug+%F0%9F%8D%B5;Mastering+The+Art+Of+Code+Ninjutsu+%E2%9A%A1;S-Rank+Full-Stack+Shinobi+%7C+Konoha+Developer+%F0%9F%8D%83;Chakra+Fuel%3A+Ichiraku+Ramen+%26+Caffeine+%F0%9F%8D%9C;Summoning+Scalable+Architectures+%26+Startups+%F0%9F%9A%80;Consistency+Compounds+Harder+Than+Talent+%F0%9F%94%A5" alt="Shinobi Typing Subtitle" />
 </p>
 
-<!-- Social & Profile Links -->
+<!-- Shinobi Bingo Book & Status Badges -->
 <p align="center">
   <a href="https://leetcode.com/u/shaikyusufjohn/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode Profile" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode Scroll" />
   </a>
   <a href="https://github.com/yusufjohn-shaik">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
   </a>
   <a href="mailto:yusufjohn252007@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Summon%20Raven-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Summon" />
   </a>
   <a href="https://github.com/yusufjohn-shaik">
-    <img src="https://komarev.com/ghpvc/?username=yusufjohn-shaik&label=Profile%20Views&color=0284c7&style=for-the-badge" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=yusufjohn-shaik&label=Chakra%20Views&color=ea580c&style=for-the-badge" alt="Chakra Views" />
   </a>
+</p>
+
+<!-- Shinobi Identity Attributes -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Village-Konohagakure_%E6%9C%A8%E3%83%8E%E8%91%89-22c55e?style=for-the-badge" alt="Leaf Village" />
+  <img src="https://img.shields.io/badge/Rank-Hokage_Candidate_%E7%81%AB%E5%BD%B1-ea580c?style=for-the-badge" alt="Hokage Rank" />
+  <img src="https://img.shields.io/badge/D%C5%8Djutsu-Code_Sharingan_%E5%86%99%E8%BC%AA%E7%9C%BC-dc2626?style=for-the-badge" alt="Code Sharingan" />
+  <img src="https://img.shields.io/badge/Chakra-Fire_%E2%80%A2_Lightning_%E2%80%A2_Wind-f59e0b?style=for-the-badge" alt="Chakra Nature" />
+  <img src="https://img.shields.io/badge/Fuel-Ichiraku_Ramen_%F0%9F%8D%9C-f97316?style=for-the-badge" alt="Ramen Fuel" />
 </p>
 
 </div>
 
 ---
 
-### 👨‍💻 Executive Summary
+### 📜 Konohagakure Classified Scroll: `shinobi_record.json`
+
+```jsonc
+// 🥷 ANBU BLACK OPS DOSSIER • S-RANK CLASSIFIED
+{
+  "ninja_identity": "Shaik Yusuf John (シェイク・ユスフ・ジョン)",
+  "alias": "yusufjohn-shaik",
+  "village": "Hidden Leaf Village (Konohagakure • 木ノ葉隠れ)",
+  "rank": "Special Jōnin / S-Rank Software Shinobi",
+  "chakra_affinities": ["Katon (Fire 🔥)", "Raiton (Lightning ⚡)", "Fūton (Wind 🌀)"],
+  "signature_jutsu": [
+    "Rasengan UI: Concentrated, hyper-reactive frontend micro-interactions",
+    "Chidori Speed: Lightning-fast C++ and TypeScript algorithmic execution",
+    "Shadow Clone Deployment: Concurrent full-stack processes with zero drift"
+  ],
+  "shinobi_nindō": "I will never go back on my word, and I will never back down from a bug. That is my Ninja Way!",
+  "specialty": "Translating complex human problems into bulletproof, scalable software architectures",
+  "daily_creed": "Consistency compounds harder than talent."
+}
+```
+
+---
+
+### 🔥 The Will of Fire (火の意志 • About Me)
 
 <table>
   <tr>
-    <td width="65%" valign="top">
+    <td width="63%" valign="top">
       <p>
-        I am a <b>Computer Science & Engineering undergraduate</b> and <b>Full-Stack Software Developer</b> with a strong foundation in modern web technologies, relational database architectures, and algorithmic problem-solving.
+        Greetings from the <b>Hidden Leaf Village</b>! 🍃 I am <b>Shaik Yusuf John</b>, a Computer Science & Engineering undergraduate and Full-Stack Shinobi dedicated to mastering the ancient and modern arts of software architecture.
       </p>
       <ul>
-        <li>🎓 <b>Academic Track:</b> B.Tech in Computer Science & Engineering</li>
-        <li>💻 <b>Specialization:</b> Frontend Engineering, Responsive Web Applications & RESTful Backend Services</li>
-        <li>🧠 <b>Algorithmic Practice:</b> Active daily problem solver on <a href="https://leetcode.com/u/shaikyusufjohn/">LeetCode</a> focusing on optimal time & space complexity (C++, TypeScript)</li>
-        <li>🚀 <b>Practical Experience:</b> Designed and deployed full-stack solutions including database management systems, automated payment recovery pipelines, and secure authentication modules</li>
-        <li>⚡ <b>Engineering Philosophy:</b> <i>"Consistency compounds harder than talent."</i></li>
+        <li>🎓 <b>Ninja Academy:</b> B.Tech in Computer Science & Engineering</li>
+        <li>💻 <b>Ninjutsu Mastery:</b> Full-Stack Web Development, Responsive UIs & High-Throughput REST APIs</li>
+        <li>🧠 <b>Chakra Training:</b> Relentless daily problem-solving on <a href="https://leetcode.com/u/shaikyusufjohn/">LeetCode</a> focusing on optimal time & space complexity ($O(1)$ mindset)</li>
+        <li>⚡ <b>Special Ability:</b> <i>Flying Raijin (飛雷神)</i> — rapidly transforming raw conceptual visions into production-grade deployments</li>
+        <li>🦊 <b>Nine-Tails Ambition:</b> Architecting disruptive SaaS ventures and launching high-impact startups prior to graduation</li>
+        <li>🎯 <b>My Nindō (忍道):</b> <i>"Consistency compounds harder than talent."</i></li>
       </ul>
     </td>
-    <td width="35%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Software Engineering Illustration" />
+    <td width="37%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/sULKEgDXZym9q/giphy.gif" width="290" alt="Naruto Sage Mode Awakening" style="border-radius: 12px; box-shadow: 0 0 20px #ea580c;" />
     </td>
   </tr>
 </table>
 
 <details>
-<summary><b>📚 Computer Science Fundamentals & Core Competencies</b> (Click to expand)</summary>
+<summary><b>👁️ Forbidden Jutsu & Secret Shinobi Codes (Click to Unseal)</b></summary>
 <br/>
 
-- **Foundational Knowledge:** Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), Database Management Systems (DBMS), Operating Systems (OS), Computer Networks (CN).
-- **Architecture & Methodologies:** RESTful API Design, MVC Architectural Pattern, Modular Component Systems, State Management, Atomic Git Version Control.
-- **Problem Solving & Patterns:** Arrays & Strings, Two Pointers, Sliding Window, Binary Search, Trees, Graphs, and Dynamic Programming.
+- 🚫 **Forbidden Sealing:** Committing without semantic meaning (`git commit -m "fix"`) is strictly forbidden by the Village Elders.
+- 🌙 **Genjutsu Immunity:** Light mode is banned in this dojo; all terminals operate in eternal midnight dark mode.
+- ⚡ **Lightning Precision:** Writing $O(N^2)$ brute-force solutions when a sliding-window or two-pointer $O(N)$ path exists is considered chakra waste.
+- 🍜 **Sage Sustenance:** Fueling late-night debugging marathons with piping bowls of ramen and steaming tea.
 
 </details>
 
 ---
 
-### 🛠️ Technical Skills & Arsenal
+### 🌀 The Five Great Chakra Natures (Tech Stack)
 
 <div align="center">
 
-#### 💻 Programming Languages
+#### 🔥 Katon (火遁 • Fire Style — Dynamic Frontend & Reactive Interfaces)
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,c,html,css,mysql&theme=dark" alt="Programming Languages" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite,html,css&theme=dark" alt="Fire Style Frontend" />
   </a>
 </p>
 
-#### ⚛️ Frontend & UI Engineering
+#### ⚡ Raiton (雷遁 • Lightning Style — High-Speed Algorithmic Core)
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite&theme=dark" alt="Frontend Engineering" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,ts,js,c&theme=dark" alt="Lightning Style Languages" />
   </a>
 </p>
 
-#### ⚙️ Backend, APIs & Databases
+#### 💧 Suiton & 🌍 Doton (水遁 & 土遁 • Water & Earth Style — Backend & Immovable Databases)
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql,postgres&theme=dark" alt="Backend & Databases" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mysql,postgres,mongodb&theme=dark" alt="Water and Earth Style Backend" />
   </a>
 </p>
 
-#### 🧰 Developer Tools & DevOps Environment
+#### 🌀 Fūton (風遁 • Wind Style — Shinobi Tooling & Automation Arsenal)
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,figma&theme=dark" alt="Tools & Environment" />
+    <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,figma&theme=dark" alt="Wind Style Tools" />
   </a>
 </p>
 
@@ -98,55 +132,55 @@
 
 ---
 
-### 🚀 Featured Engineering Projects
+### 📜 Konoha Mission Assignment Board (Flagship Projects)
 
-| Project | Description & Architecture | Technology Stack | Repository |
-| :--- | :--- | :--- | :---: |
-| 🧬 **Project Helix** | Full-Stack DBMS application featuring relational database modeling, real-time request handling, query optimization, and an interactive dashboard. | `Python` `Flask` `MySQL` `HTML5/CSS3` | [🔗 View Source](https://github.com/yusufjohn-shaik/project-Helix) |
-| ⚡ **DSA Mastery Preparation** | Comprehensive repository of structured algorithmic problem solutions, complexity analyses, and LeetCode problem patterns. | `C++` `TypeScript` `Algorithms` | [🔗 View Source](https://github.com/yusufjohn-shaik/dsa-prep) |
-| 💳 **Razorpay Revenue Recovery** | Automated payment analytics and retry pipeline designed to reduce transaction failure rates and streamline recurring billing. | `Python` `REST APIs` `Automation` | [🔗 View Source](https://github.com/yusufjohn-shaik/razorpay-revenue-recovery) |
-| 🌐 **Modern Developer Portfolio** | Responsive personal portfolio application engineered with modular React components, Tailwind styling, and dynamic contact integration. | `React.js` `Tailwind CSS` `Vite` | [🔗 View Source](https://github.com/yusufjohn-shaik/portfolio) |
-| 🔐 **Flask Authentication System** | Production-ready user authentication module featuring session management, salted password hashing, and user validation controls. | `Python` `Flask` `SQLite/MySQL` | [🔗 View Source](https://github.com/yusufjohn-shaik/flask-login-signup-system) |
+| Mission Rank | Secret Scroll (Project) | Mission Brief & Architecture | Chakra Nature | Classified Archive |
+| :---: | :--- | :--- | :--- | :---: |
+| <img src="https://img.shields.io/badge/RANK-S-ff0000?style=for-the-badge" height="24"/> | 🧬 **Project Helix** | Full-Stack Relational DBMS platform featuring optimized database schema normalization, real-time request handling, and administrative command telemetry. | `Python` `Flask` `MySQL` `HTML/CSS` | [🔗 Inspect Scroll](https://github.com/yusufjohn-shaik/project-Helix) |
+| <img src="https://img.shields.io/badge/RANK-A-ea580c?style=for-the-badge" height="24"/> | ⚡ **DSA Mastery Scrolls** | Deep repository of deciphered algorithmic jutsu, two-pointer maneuvers, graph traversals, and dynamic programming patterns. | `C++` `TypeScript` `Algorithms` | [🔗 Inspect Scroll](https://github.com/yusufjohn-shaik/dsa-prep) |
+| <img src="https://img.shields.io/badge/RANK-A-ea580c?style=for-the-badge" height="24"/> | 💳 **Razorpay Revenue Recovery** | Automated telemetry and smart retry workflow engineered to intercept failed recurring invoices and protect subscription revenue. | `Python` `Fintech APIs` `Automation` | [🔗 Inspect Scroll](https://github.com/yusufjohn-shaik/razorpay-revenue-recovery) |
+| <img src="https://img.shields.io/badge/RANK-B-3b82f6?style=for-the-badge" height="24"/> | 🌐 **Shinobi Portfolio Portal** | Hyper-responsive developer headquarters with custom interactive animations, modular component states, and direct contact integration. | `React.js` `Tailwind CSS` `Vite` | [🔗 Inspect Scroll](https://github.com/yusufjohn-shaik/portfolio) |
+| <img src="https://img.shields.io/badge/RANK-B-3b82f6?style=for-the-badge" height="24"/> | 🔐 **Flask Authentication Barrier** | Cryptographic user authentication barrier enforcing salted password hashing, secure session tokens, and strict permission verification. | `Python` `Flask` `Cryptographic Hashing` | [🔗 Inspect Scroll](https://github.com/yusufjohn-shaik/flask-login-signup-system) |
 
 <br/>
 
 <div align="center">
 
 <a href="https://github.com/yusufjohn-shaik/project-Helix">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yusufjohn-shaik&repo=project-Helix&theme=tokyonight&bg_color=0d1117&border_color=38bdf8&title_color=38bdf8" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yusufjohn-shaik&repo=project-Helix&bg_color=090a0f&title_color=ea580c&icon_color=f59e0b&text_color=e2e8f0&border_color=b91c1c" />
 </a>
 <a href="https://github.com/yusufjohn-shaik/dsa-prep">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yusufjohn-shaik&repo=dsa-prep&theme=tokyonight&bg_color=0d1117&border_color=38bdf8&title_color=38bdf8" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yusufjohn-shaik&repo=dsa-prep&bg_color=090a0f&title_color=ea580c&icon_color=f59e0b&text_color=e2e8f0&border_color=b91c1c" />
 </a>
 
 </div>
 
 ---
 
-### 📊 Engineering Analytics & Activity
+### 📊 Shinobi Battlefield Analytics (Chakra Reserves)
 
 <div align="center">
 
-<!-- GitHub Stats & Top Languages -->
+<!-- GitHub Stats & Top Jutsu -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yusufjohn-shaik&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufjohn-shaik&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e2e8f0" height="175" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yusufjohn-shaik&show_icons=true&bg_color=090a0f&title_color=ea580c&icon_color=f59e0b&text_color=e2e8f0&border_color=b91c1c" height="175" alt="Shinobi GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufjohn-shaik&layout=compact&bg_color=090a0f&title_color=ea580c&text_color=e2e8f0&border_color=b91c1c" height="175" alt="Top Jutsu Languages" />
 </p>
 
-<!-- GitHub Streak -->
+<!-- Will of Fire Streak -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yusufjohn-shaik&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" height="175" alt="GitHub Streak Tracker" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yusufjohn-shaik&theme=tokyonight&hide_border=false&border=b91c1c&background=090a0f&ring=ea580c&fire=ea580c&currStreakLabel=f59e0b" height="175" alt="Will of Fire Streak" />
 </p>
 
-<!-- Commit Productivity Time -->
+<!-- Midnight Shinobi Training Hours -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yusufjohn-shaik&theme=tokyonight&utcOffset=5.5" height="180" alt="Productive Time Breakdown" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yusufjohn-shaik&theme=tokyonight&utcOffset=5.5" height="180" alt="Productive Shinobi Hours" />
 </p>
 
-<!-- LeetCode Heatmap & Problem Stats -->
+<!-- LeetCode Dōjutsu Progress Card -->
 <p align="center">
   <a href="https://leetcode.com/u/shaikyusufjohn/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/shaikyusufjohn?theme=dark&font=Fira%20Code&ext=heatmap" height="185" alt="LeetCode Analytics" />
+    <img src="https://leetcard.jacoblin.cool/shaikyusufjohn?theme=dark&font=Fira%20Code&ext=heatmap" height="185" alt="LeetCode Dōjutsu Heatmap" />
   </a>
 </p>
 
@@ -154,40 +188,49 @@
 
 ---
 
-### 🐍 Contribution Activity Stream
+### 🐍 Kuchiyose no Jutsu: Snake Contribution Grid
 
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/yusufjohn-shaik/yusufjohn-shaik/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
+  <p><i>Summoning Orochimaru's contribution serpent across the GitHub chakra matrix...</i></p>
+  <img width="100%" src="https://raw.githubusercontent.com/yusufjohn-shaik/yusufjohn-shaik/output/github-contribution-grid-snake-dark.svg" alt="Summoning Snake Animation" />
 </div>
 
 ---
 
-### 🎯 Professional Goals & 2026 Focus Areas
+### ⛩️ The Path of the Hokage (2026 Objectives)
 
-- [x] **Full-Stack Engineering:** Architect and ship production-ready web applications with end-to-end type safety
-- [x] **Algorithmic Mastery:** Maintain daily problem-solving streak on LeetCode across core algorithmic paradigms
-- [ ] **System Design:** Deepen knowledge of distributed systems, high-availability caching, and microservice architectures
-- [ ] **Applied AI Integration:** Implement intelligent automation and LLM-driven capabilities into software products
-- [ ] **Open Source & Collaboration:** Contribute to high-impact open-source developer tooling and enterprise libraries
+```
+[✓] 🍃 Graduate from Shinobi Academy & ship full-stack production software
+[✓] ⚡ Maintain daily streak on LeetCode & sharpen algorithmic taijutsu
+[✓] 🐧 Custom-rice Linux workstation with shinobi-grade efficiency
+[ ] 👁️ Awaken Mangekyō System Design (Distributed Microservices & Cloud Caching)
+[ ] 🤖 Harness Sage Mode AI (End-to-end Autonomous Agent Systems)
+[ ] 🏰 Establish an independent tech village (Found and scale a venture-backed tech startup)
+```
 
 ---
 
 <div align="center">
 
 <h3 align="center">
-<i>"Consistency compounds harder than talent."</i>
+<i>"When tree leaves dance, one shall find flames. The fire's shadow will illuminate the village, and once again, tree leaves shall bud anew."</i><br/>
+— <b>Third Hokage (Hiruzen Sarutobi)</b>
 </h3>
+
+<h4 align="center">
+<i>"Consistency compounds harder than talent."</i> — <b>Shaik Yusuf John</b> 🔥
+</h4>
 
 <p align="center">
   <a href="https://github.com/yusufjohn-shaik?tab=followers">
-    <img src="https://img.shields.io/github/followers/yusufjohn-shaik?label=Follow%20%40yusufjohn-shaik&style=flat-square&color=0284c7" alt="Follow on GitHub" />
+    <img src="https://img.shields.io/github/followers/yusufjohn-shaik?label=Follow%20Shinobi&style=flat-square&color=ea580c" alt="Follow Shinobi" />
   </a>
   <a href="https://github.com/yusufjohn-shaik/yusufjohn-shaik">
-    <img src="https://img.shields.io/github/stars/yusufjohn-shaik/yusufjohn-shaik?style=flat-square&color=0284c7" alt="Star Repository" />
+    <img src="https://img.shields.io/github/stars/yusufjohn-shaik/yusufjohn-shaik?label=Star%20Scroll&style=flat-square&color=f59e0b" alt="Star Scroll" />
   </a>
 </p>
 
-<!-- Footer Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,50:1e40af,100:0f172a&height=120&section=footer" alt="Footer Banner" />
+<!-- Konoha Fire Wave Footer Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f59e0b,30:ea580c,70:b91c1c,100:090a0f&height=130&section=footer" alt="Konoha Fire Footer" />
 
 </div>
