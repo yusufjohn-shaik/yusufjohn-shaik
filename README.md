@@ -45,7 +45,7 @@
       </p>
     </td>
     <td width="38%" align="center" valign="middle">
-      <img src="./assets/kakashi.gif" width="280" alt="Kakashi Chidori" style="border-radius: 12px; box-shadow: 0 0 25px rgba(56, 189, 248, 0.3);" />
+      <img src="https://raw.githubusercontent.com/yusufjohn-shaik/yusufjohn-shaik/main/assets/kakashi.gif" width="280" alt="Kakashi Chidori" style="border-radius: 12px; box-shadow: 0 0 25px rgba(56, 189, 248, 0.3);" />
     </td>
   </tr>
 </table>
