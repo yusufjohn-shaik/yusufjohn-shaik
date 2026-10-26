@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Waving Electric Cyan Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f17,40:1e293b,70:2563eb,100:38bdf8&height=220&section=header&text=Shaik%20Yusuf%20John&fontSize=42&fontColor=ffffff&desc=Frontend%20%26%20Full-Stack%20Developer%20%E2%80%A2%20Problem%20Solver&descSize=15&descAlignY=62&fontAlignY=36" alt="Header Banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f17,40:1e293b,70:2563eb,100:38bdf8&height=220&section=header&text=Shaik%20Yusuf%20John&fontSize=42&fontColor=ffffff&desc=Frontend%20%7C%20Full-Stack%20Developer%20%7C%20Problem%20Solver&descSize=15&descAlignY=62&fontAlignY=36" alt="Header Banner" />
 
 <!-- Dynamic Typing Subtitle -->
 <p align="center">
