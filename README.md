@@ -1,66 +1,66 @@
 <div align="center">
 
-<!-- Cinematic Dark Akatsuki Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0a0a0f,70:7f1d1d,100:dc2626&height=220&section=header&text=Shaik%20Yusuf%20John&fontSize=42&fontColor=ffffff&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Problem%20Solver&descSize=15&descAlignY=62&fontAlignY=36" alt="Header Banner" />
+<!-- Electric Lightning Blue & Cyan Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:060913,40:0b1329,70:1d4ed8,100:00f5ff&height=220&section=header&text=Shaik%20Yusuf%20John&fontSize=42&fontColor=ffffff&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Problem%20Solver&descSize=15&descAlignY=62&fontAlignY=36" alt="Header Banner" />
 
-<!-- Crimson Neon Typing Subtitle -->
+<!-- Electric Cyan Typing Subtitle -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=EF4444&center=true&vCenter=true&width=750&lines=Software+Engineer+%E2%80%A2+Full-Stack+Developer;Building+Scalable+Products+%26+Modern+Web+Apps;Data+Structures+%26+Algorithms+Practitioner;C%2B%2B+%E2%80%A2+TypeScript+%E2%80%A2+React+%E2%80%A2+Python;Obsessed+With+Craft+%26+Clean+Architecture;Consistency+Compounds+Harder+Than+Talent" alt="Typing Subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=750&lines=Software+Engineer+%E2%80%A2+Full-Stack+Developer;Building+Fast%2C+Scalable+Products+%26+Modern+Web+Apps;Data+Structures+%26+Algorithms+Practitioner;C%2B%2B+%E2%80%A2+TypeScript+%E2%80%A2+React+%E2%80%A2+Python;Precision+Code+%E2%80%A2+High-Performance+Architecture;Consistency+Compounds+Harder+Than+Talent" alt="Typing Subtitle" />
 </p>
 
-<!-- Dark & Crimson Connect Badges -->
+<!-- Connected Profile Badges -->
 <p align="center">
   <a href="https://leetcode.com/u/shaikyusufjohn/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
   </a>
   <a href="https://github.com/yusufjohn-shaik">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-060913?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:yusufjohn252007@gmail.com">
-    <img src="https://img.shields.io/badge/Email-dc2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-00f5ff?style=for-the-badge&logo=gmail&logoColor=060913" alt="Email" />
   </a>
   <a href="https://github.com/yusufjohn-shaik">
-    <img src="https://komarev.com/ghpvc/?username=yusufjohn-shaik&label=Profile%20Views&color=dc2626&style=for-the-badge" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=yusufjohn-shaik&label=Profile%20Views&color=00f5ff&style=for-the-badge" alt="Profile Views" />
   </a>
 </p>
 
-<!-- Subtle Theme Badge -->
+<!-- Subtle Theme Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Aesthetic-Akatsuki_%E6%9A%81-7f1d1d?style=flat-square" alt="Theme" />
-  <img src="https://img.shields.io/badge/Focus-Full--Stack_%26_DSA-0a0a0f?style=flat-square&color=dc2626" alt="Focus" />
-  <img src="https://img.shields.io/badge/OS-Linux_%E2%80%A2_KDE-0a0a0f?style=flat-square&color=ef4444" alt="OS" />
+  <img src="https://img.shields.io/badge/Aesthetic-Chidori_Lightning_Cyan-00f5ff?style=flat-square&labelColor=060913&color=00f5ff" alt="Aesthetic" />
+  <img src="https://img.shields.io/badge/Focus-Full--Stack_%26_DSA-0b1329?style=flat-square&color=38bdf8" alt="Focus" />
+  <img src="https://img.shields.io/badge/OS-Linux_%E2%80%A2_KDE-0b1329?style=flat-square&color=60a5fa" alt="OS" />
 </p>
 
 </div>
 
 ---
 
-### 🌑 About Me
+### ⚡ About Me
 
 <table>
   <tr>
-    <td width="65%" valign="top">
+    <td width="63%" valign="top">
       <p>
-        I'm <b>Shaik Yusuf John</b> — a Computer Science & Engineering undergraduate and Full-Stack Software Developer dedicated to engineering fast, scalable, and responsive digital products.
+        Hi there! 👋 I'm <b>Shaik Yusuf John</b> — a Computer Science & Engineering undergraduate and Full-Stack Software Developer passionate about engineering high-speed, scalable, and responsive digital products.
       </p>
       <ul>
-        <li>🎓 <b>Education:</b> B.Tech in Computer Science & Engineering</li>
-        <li>💻 <b>Core Domain:</b> Modern Frontend Engineering & Scalable Full-Stack Systems</li>
+        <li>🎓 <b>Academic Track:</b> B.Tech in Computer Science & Engineering</li>
+        <li>💻 <b>Core Domain:</b> Modern Frontend Engineering & Scalable Full-Stack Architectures</li>
         <li>🧠 <b>Problem Solving:</b> Daily algorithmic practice on <a href="https://leetcode.com/u/shaikyusufjohn/">LeetCode</a> focusing on optimal time & space complexity (C++, TypeScript)</li>
-        <li>⚙️ <b>Architecture:</b> Experienced with Relational DBMS design, RESTful APIs, and secure authentication flows</li>
-        <li>🚀 <b>Goal:</b> Build production-grade software solutions, contribute to open source, and launch innovative tech ventures</li>
-        <li>⚡ <b>Philosophy:</b> <i>"Consistency compounds harder than talent."</i></li>
+        <li>⚡ <b>Core Focus:</b> Relational DBMS design, RESTful APIs, type-safe development, and clean component systems</li>
+        <li>🚀 <b>Aspiration:</b> Building production-grade software solutions, contributing to open source, and launching scalable tech startups</li>
+        <li>🎯 <b>Philosophy:</b> <i>"Consistency compounds harder than talent."</i></li>
       </ul>
     </td>
-    <td width="35%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/CchzkJJ6UrdQBt64g7/giphy.gif" width="280" alt="Itachi Akatsuki Aesthetic" style="border-radius: 8px;" />
+    <td width="37%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/S9Lz7S5699Z7M1YfVz/giphy.gif" width="280" alt="Kakashi Chidori Lightning Aesthetic" style="border-radius: 10px; box-shadow: 0 0 20px rgba(0, 245, 255, 0.35);" />
     </td>
   </tr>
 </table>
 
 ---
 
-### ⚔️ Tech Stack & Tooling
+### 🛠️ Technical Stack & Tooling
 
 <div align="center">
 
@@ -111,10 +111,10 @@
 <div align="center">
 
 <a href="https://github.com/yusufjohn-shaik/project-Helix">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yusufjohn-shaik&repo=project-Helix&bg_color=050508&title_color=ef4444&icon_color=dc2626&text_color=e2e8f0&border_color=7f1d1d" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yusufjohn-shaik&repo=project-Helix&bg_color=060913&title_color=00f5ff&icon_color=38bdf8&text_color=e2e8f0&border_color=1d4ed8" />
 </a>
 <a href="https://github.com/yusufjohn-shaik/dsa-prep">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yusufjohn-shaik&repo=dsa-prep&bg_color=050508&title_color=ef4444&icon_color=dc2626&text_color=e2e8f0&border_color=7f1d1d" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yusufjohn-shaik&repo=dsa-prep&bg_color=060913&title_color=00f5ff&icon_color=38bdf8&text_color=e2e8f0&border_color=1d4ed8" />
 </a>
 
 </div>
@@ -127,13 +127,13 @@
 
 <!-- GitHub Stats & Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yusufjohn-shaik&show_icons=true&bg_color=050508&title_color=ef4444&icon_color=dc2626&text_color=e2e8f0&border_color=7f1d1d" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufjohn-shaik&layout=compact&bg_color=050508&title_color=ef4444&text_color=e2e8f0&border_color=7f1d1d" height="175" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yusufjohn-shaik&show_icons=true&bg_color=060913&title_color=00f5ff&icon_color=38bdf8&text_color=e2e8f0&border_color=1d4ed8" height="175" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufjohn-shaik&layout=compact&bg_color=060913&title_color=00f5ff&text_color=e2e8f0&border_color=1d4ed8" height="175" alt="Top Languages" />
 </p>
 
 <!-- GitHub Streak Tracker -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yusufjohn-shaik&theme=tokyonight&hide_border=false&border=7f1d1d&background=050508&ring=ef4444&fire=dc2626&currStreakLabel=ef4444" height="175" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yusufjohn-shaik&theme=tokyonight&hide_border=false&border=1d4ed8&background=060913&ring=00f5ff&fire=38bdf8&currStreakLabel=00f5ff" height="175" alt="GitHub Streak" />
 </p>
 
 <!-- Productive Hours -->
@@ -160,7 +160,7 @@
 
 ---
 
-### 🎯 2026 Strategic Focus
+### 🎯 2026 Strategic Roadmap
 
 ```
 [✓] Maintain continuous daily problem-solving streak on LeetCode
@@ -176,24 +176,24 @@
 <div align="center">
 
 <h3 align="center">
-<i>"People's lives don't end when they die. It only ends when they lose faith."</i><br/>
-— <b>Itachi Uchiha</b>
+<i>"Those who don't have many abilities tend to complain more. Focus on mastering the craft with quiet precision."</i><br/>
+— <b>Kakashi Hatake</b>
 </h3>
 
 <h4 align="center">
-<i>"Consistency compounds harder than talent."</i> — <b>Shaik Yusuf John</b>
+<i>"Consistency compounds harder than talent."</i> — <b>Shaik Yusuf John</b> ⚡
 </h4>
 
 <p align="center">
   <a href="https://github.com/yusufjohn-shaik?tab=followers">
-    <img src="https://img.shields.io/github/followers/yusufjohn-shaik?label=Follow&style=flat-square&color=dc2626" alt="Follow GitHub" />
+    <img src="https://img.shields.io/github/followers/yusufjohn-shaik?label=Follow&style=flat-square&color=00f5ff" alt="Follow GitHub" />
   </a>
   <a href="https://github.com/yusufjohn-shaik/yusufjohn-shaik">
-    <img src="https://img.shields.io/github/stars/yusufjohn-shaik/yusufjohn-shaik?label=Star&style=flat-square&color=ef4444" alt="Star Repository" />
+    <img src="https://img.shields.io/github/stars/yusufjohn-shaik/yusufjohn-shaik?label=Star&style=flat-square&color=38bdf8" alt="Star Repository" />
   </a>
 </p>
 
-<!-- Crimson Wave Footer Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:dc2626,30:7f1d1d,70:0a0a0f,100:000000&height=120&section=footer" alt="Footer Banner" />
+<!-- Electric Cyan Wave Footer Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,30:1d4ed8,70:0b1329,100:060913&height=120&section=footer" alt="Footer Banner" />
 
 </div>
