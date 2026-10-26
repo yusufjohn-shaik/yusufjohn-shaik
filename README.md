@@ -53,7 +53,7 @@
       </ul>
     </td>
     <td width="37%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/S9Lz7S5699Z7M1YfVz/giphy.gif" width="280" alt="Kakashi Chidori Lightning Aesthetic" style="border-radius: 10px; box-shadow: 0 0 20px rgba(0, 245, 255, 0.35);" />
+      <img src="./assets/kakashi.gif" width="280" alt="Kakashi Chidori Lightning Aesthetic" style="border-radius: 10px; box-shadow: 0 0 20px rgba(0, 245, 255, 0.35);" />
     </td>
   </tr>
 </table>
