@@ -5,7 +5,7 @@
 
 <!-- Electric Cyan Typing Subtitle -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=750&lines=Software+Engineer+%E2%80%A2+Full-Stack+Developer;Building+Fast%2C+Scalable+Products+%26+Modern+Web+Apps;Data+Structures+%26+Algorithms+Practitioner;C%2B%2B+%E2%80%A2+TypeScript+%E2%80%A2+React+%E2%80%A2+Python;Precision+Code+%E2%80%A2+High-Performance+Architecture;Consistency+Compounds+Harder+Than+Talent" alt="Typing Subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=750&lines=Frontend+%26+Full-Stack+Developer;Building+Fast%2C+Scalable+Products+%26+Modern+Web+Apps;Data+Structures+%26+Algorithms+Practitioner;C%2B%2B+%E2%80%A2+Python+%E2%80%A2+React+%E2%80%A2+Tailwind+%E2%80%A2+Flask;Precision+Code+%E2%80%A2+High-Performance+Architecture;Consistency+Compounds+Harder+Than+Talent" alt="Typing Subtitle" />
 </p>
 
 <!-- Connected Profile Badges -->
@@ -46,7 +46,7 @@
       <ul>
         <li>🎓 <b>Academic Track:</b> B.Tech in Computer Science & Engineering</li>
         <li>💻 <b>Core Domain:</b> Modern Frontend Engineering & Scalable Full-Stack Architectures</li>
-        <li>🧠 <b>Problem Solving:</b> Daily algorithmic practice on <a href="https://leetcode.com/u/shaikyusufjohn/">LeetCode</a> focusing on optimal time & space complexity (C++, TypeScript)</li>
+        <li>🧠 <b>Problem Solving:</b> Daily algorithmic practice on <a href="https://leetcode.com/u/shaikyusufjohn/">LeetCode</a> focusing on optimal time & space complexity (C++, Python)</li>
         <li>⚡ <b>Core Focus:</b> Relational DBMS design, RESTful APIs, type-safe development, and clean component systems</li>
         <li>🚀 <b>Aspiration:</b> Building production-grade software solutions, contributing to open source, and launching scalable tech startups</li>
         <li>🎯 <b>Philosophy:</b> <i>"Consistency compounds harder than talent."</i></li>
@@ -67,28 +67,28 @@
 #### 💻 Programming Languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,c,html,css,mysql&theme=dark" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,python,js,mysql,html,css&theme=dark" alt="Languages" />
   </a>
 </p>
 
 #### ⚛️ Frontend & UI Frameworks
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite&theme=dark" alt="Frontend" />
+    <img src="https://skillicons.dev/icons?i=react,tailwind,vite,html,css&theme=dark" alt="Frontend" />
   </a>
 </p>
 
 #### ⚙️ Backend & Databases
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql,postgres&theme=dark" alt="Backend" />
+    <img src="https://skillicons.dev/icons?i=python,flask,mysql&theme=dark" alt="Backend" />
   </a>
 </p>
 
 #### 🧰 Developer Tools & Environment
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,figma&theme=dark" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,vercel&theme=dark" alt="Tools" />
   </a>
 </p>
 
@@ -101,7 +101,7 @@
 | Project | Highlights & Architecture | Tech Stack | Repository |
 | :--- | :--- | :--- | :---: |
 | 🧬 **Project Helix** | Full-Stack DBMS platform featuring relational schema modeling, real-time request handling, query optimization, and an interactive admin dashboard. | `Python` `Flask` `MySQL` `HTML/CSS` | [🔗 View Source](https://github.com/yusufjohn-shaik/project-Helix) |
-| ⚡ **DSA Mastery Prep** | Hand-crafted repository of optimized algorithmic problem patterns, data structures, and daily LeetCode solutions. | `C++` `TypeScript` `Algorithms` | [🔗 View Source](https://github.com/yusufjohn-shaik/dsa-prep) |
+| ⚡ **DSA Mastery Prep** | Hand-crafted repository of optimized algorithmic problem patterns, data structures, and daily LeetCode solutions. | `C++` `Python` `Algorithms` | [🔗 View Source](https://github.com/yusufjohn-shaik/dsa-prep) |
 | 💳 **Razorpay Revenue Recovery** | Automated payment analytics & smart recovery workflow pipeline engineered to reduce subscriber drop-offs and billing anomalies. | `Python` `Payment APIs` `Automation` | [🔗 View Source](https://github.com/yusufjohn-shaik/razorpay-revenue-recovery) |
 | 🌐 **Modern Dev Portfolio** | Hyper-responsive developer portfolio website with interactive component states, modern CSS styling, and dynamic contact API integrations. | `React.js` `Tailwind CSS` `Vite` | [🔗 View Source](https://github.com/yusufjohn-shaik/portfolio) |
 | 🔐 **Flask Authentication System** | Production-ready user authentication engine featuring session cookies, salted password hashing, and user role validation controls. | `Python` `Flask` `SQLite/MySQL` | [🔗 View Source](https://github.com/yusufjohn-shaik/flask-login-signup-system) |
