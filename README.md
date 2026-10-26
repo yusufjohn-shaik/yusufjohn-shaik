@@ -45,7 +45,7 @@
       </p>
     </td>
     <td width="38%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF" />
+      <img src="https://media.giphy.com/media/P8ef3Dkynk0xLx1h1T/giphy.gif" width="300" alt="Coding Cat GIF" style="border-radius: 10px;" />
     </td>
   </tr>
 </table>
