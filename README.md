@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Custom Designed Hero Banner -->
-<img width="100%" src="./assets/GitHub_banner.jpg" alt="Shaik Yusuf John - Code & Creativity" style="border-radius: 8px; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4);" />
+<img width="100%" src="GitHub_banner.jpg" alt="Yusuf John - Code & Creativity" />
 
 <!-- Dynamic Typing Subtitle -->
 <p align="center">
@@ -45,7 +45,7 @@
       </p>
     </td>
     <td width="38%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/yusufjohn-shaik/yusufjohn-shaik/main/assets/kakashi.gif" width="280" alt="Kakashi Chidori" style="border-radius: 12px; box-shadow: 0 0 25px rgba(56, 189, 248, 0.3);" />
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF" />
     </td>
   </tr>
 </table>
