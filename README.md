@@ -11,7 +11,7 @@
 <!-- Connected Badges -->
 <p align="center">
   <a href="https://leetcode.com/u/shaikyusufjohn/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-50%2B%20Days%20Streak-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-100%2B%20Days%20Streak-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
   </a>
   <a href="https://github.com/yusufjohn-shaik">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
