@@ -5,7 +5,7 @@
 
 <!-- Dynamic Typing Subtitle -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=Frontend+%26+Full-Stack+Developer;B.Tech+Computer+Science+%26+Engineering;50%2B+Day+Streak+on+LeetCode+(C%2B%2B+%2F+Python);React+%E2%80%A2+Tailwind+%E2%80%A2+Python+%E2%80%A2+Flask+%E2%80%A2+MySQL;Crafting+Fast%2C+Modern+Web+Applications;Consistency+Compounds+Harder+Than+Talent" alt="Typing Subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=Frontend+%26+Full-Stack+Developer;B.Tech+Computer+Science+%26+Engineering;100%2B+Day+Streak+on+LeetCode+(C%2B%2B+%2F+Python);React+%E2%80%A2+Tailwind+%E2%80%A2+Python+%E2%80%A2+Flask+%E2%80%A2+MySQL;Crafting+Fast%2C+Modern+Web+Applications;Consistency+Compounds+Harder+Than+Talent" alt="Typing Subtitle" />
 </p>
 
 <!-- Connected Badges -->
@@ -38,9 +38,9 @@
         Computer Science undergraduate and Full-Stack Developer passionate about engineering clean, responsive digital products and solving challenging algorithmic problems.
       </p>
       <p>
-        💻 <b>Frontend:</b> Building modern, responsive UIs with <b>React.js</b>, <b>Tailwind CSS</b>, and <b>Vite</b>.<br/>
+        💻 <b>Frontend:</b> Building modern, responsive UIs with <b>React.js</b>, <b>Tailwind CSS</b>.<br/>
         ⚙️ <b>Backend:</b> Developing RESTful APIs and database persistence with <b>Python</b>, <b>Flask</b>, and <b>MySQL</b>.<br/>
-        🧠 <b>DSA:</b> <b>50+ Day Streak</b> on LeetCode practicing optimal patterns in <b>C++</b> & <b>Python</b>.<br/>
+        🧠 <b>DSA:</b> <b>100+ Day Streak</b> on LeetCode practicing optimal patterns in <b>C++</b> & <b>Python</b>.<br/>
         🚀 <b>Currently:</b> Building full-stack web platforms and open-source projects.
       </p>
     </td>
