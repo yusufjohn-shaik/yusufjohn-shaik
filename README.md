@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Custom Designed Hero Banner -->
-<img width="100%" src="GitHub_banner.jpg" alt="Yusuf John - Code & Creativity" />
+<img width="100%" src="GitHub_banner.jpg" alt="Shaik Yusuf John - Code & Creativity Hero Banner" />
 
 <!-- Dynamic Typing Subtitle -->
 <p align="center">
