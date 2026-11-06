@@ -45,7 +45,7 @@
       </p>
     </td>
     <td width="38%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/P8ef3Dkynk0xLx1h1T/giphy.gif" width="300" alt="Coding Cat GIF" style="border-radius: 10px;" />
+      <img src="assets/cyber-bonsai.svg" width="300" height="263" alt="Pixel-Art Cyber Bonsai" />
     </td>
   </tr>
 </table>
