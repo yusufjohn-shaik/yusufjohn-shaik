@@ -111,7 +111,7 @@
 
 ---
 
-### 🪴 Cyber Bonsai Garden & Digital Pets
+### Cyber Bonsai Garden
 
 <div align="center">
   <img width="100%" src="assets/cyber-garden.svg" alt="Cyber Bonsai Garden & Digital Pets" />
