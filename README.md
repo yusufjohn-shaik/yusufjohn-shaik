@@ -1,14 +1,21 @@
 <div align="center">
 
 <!-- Custom Designed Hero Banner -->
-<img width="100%" src="GitHub_banner.jpg" alt="Shaik Yusuf John - Code & Creativity Hero Banner" />
+<img width="100%" src="GitHub_banner.jpg" alt="Shaik Yusuf John - Code &amp; Creativity Hero Banner" />
 
 <!-- Dynamic Typing Subtitle -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=Frontend+%26+Full-Stack+Developer;B.Tech+Computer+Science+%26+Engineering;100%2B+Day+Streak+on+LeetCode+(C%2B%2B+%2F+Python);React+%E2%80%A2+Tailwind+%E2%80%A2+Python+%E2%80%A2+Flask+%E2%80%A2+MySQL;Crafting+Fast%2C+Modern+Web+Applications;Consistency+Compounds+Harder+Than+Talent" alt="Typing Subtitle" />
 </p>
 
-<!-- Connected Badges -->
+<!-- Live Status & Quick Identity Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-🟢_Building_%26_Optimizing-0b0f17?style=for-the-badge&logoColor=38bdf8" alt="Status" />
+  <img src="https://img.shields.io/badge/Focus-Full--Stack_%26_Algorithms-0b0f17?style=for-the-badge&logoColor=38bdf8" alt="Focus" />
+  <img src="https://img.shields.io/badge/Location-India_%F0%9F%87%AE%F0%9F%87%B3-0b0f17?style=for-the-badge&logoColor=38bdf8" alt="Location" />
+</p>
+
+<!-- Connected Channels & Badges -->
 <p align="center">
   <a href="https://leetcode.com/u/shaikyusufjohn/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-100%2B%20Days%20Streak-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
@@ -35,13 +42,16 @@
     <td width="62%" valign="top">
       <h3>Hey, I'm Shaik Yusuf John 👋</h3>
       <p>
-        Computer Science undergraduate and Full-Stack Developer passionate about engineering clean, responsive digital products and solving challenging algorithmic problems.
+        Computer Science undergraduate &amp; Full-Stack Developer passionate about engineering clean, responsive digital products and solving challenging algorithmic problems.
       </p>
       <p>
-        💻 <b>Frontend:</b> Building modern, responsive UIs with <b>React.js</b>, <b>Tailwind CSS</b>.<br/>
-        ⚙️ <b>Backend:</b> Developing RESTful APIs and database persistence with <b>Python</b>, <b>Flask</b>, and <b>MySQL</b>.<br/>
-        🧠 <b>DSA:</b> <b>100+ Day Streak</b> on LeetCode practicing optimal patterns in <b>C++</b> & <b>Python</b>.<br/>
-        🚀 <b>Currently:</b> Building full-stack web platforms and open-source projects.
+        💻 <b>Frontend:</b> Building modern, responsive UIs with <b>React.js</b>, <b>Tailwind CSS</b>, and <b>Vite</b>.<br/>
+        ⚙️ <b>Backend:</b> Architecting RESTful APIs and database persistence with <b>Python</b>, <b>Flask</b>, and <b>MySQL</b>.<br/>
+        🧠 <b>DSA:</b> <b>100+ Day Active Streak</b> on LeetCode mastering optimal patterns in <b>C++</b> &amp; <b>Python</b>.<br/>
+        🚀 <b>Currently:</b> Building full-stack web platforms, exploring system design, and shipping open-source software.
+      </p>
+      <p>
+        <i>"Turning complex algorithmic logic into intuitive user experiences."</i>
       </p>
     </td>
     <td width="38%" align="center" valign="middle">
@@ -52,15 +62,55 @@
 
 ---
 
-### 🛠️ Tech Stack & Arsenal
+### 🛠️ Tech Stack &amp; Arsenal
 
 <div align="center">
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=cpp,c,python,js,mysql,react,tailwind,vite,flask,git,github,linux,vscode,postman,vercel&perline=8&theme=dark" alt="Tech Stack Icons" />
-    </a>
-  </p>
+
+<p align="center">
+  <b>Languages &amp; Core Systems</b><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,c,python,js&theme=dark" alt="Languages" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Frontend &amp; User Interfaces</b><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,tailwind,vite,html,css&theme=dark" alt="Frontend" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Backend &amp; Databases</b><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flask,mysql,postman&theme=dark" alt="Backend" />
+  </a>
+</p>
+
+<p align="center">
+  <b>DevOps, Environment &amp; Tools</b><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,vercel&theme=dark" alt="Tools" />
+  </a>
+</p>
+
 </div>
+
+---
+
+### 💻 Developer Terminal
+
+```bash
+┌──(yusuf㉿cyber-system)-[~]
+└─$ curl -s https://api.yusufjohn.dev/profile | jq .
+{
+  "developer": "Shaik Yusuf John",
+  "role": "Frontend & Full-Stack Engineer",
+  "streak": "100+ Consecutive Days on LeetCode",
+  "status": "Available for high-impact projects & collaboration",
+  "interests": ["Scalable Web Architecture", "System Design", "Algorithmic Efficiency"]
+}
+```
 
 ---
 
@@ -90,7 +140,7 @@
 
 ---
 
-### 📊 GitHub & LeetCode Analytics
+### 📊 GitHub &amp; LeetCode Analytics
 
 <div align="center">
 
@@ -98,6 +148,7 @@
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=yusufjohn-shaik&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0f17&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0" height="165" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=yusufjohn-shaik&theme=tokyonight&hide_border=true&background=0b0f17&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" height="165" alt="Streak Tracker" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=yusufjohn-shaik&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0f17&title_color=38bdf8&text_color=e2e8f0" height="165" alt="Top Languages" />
 </p>
 
 <!-- LeetCode Heatmap Card -->
@@ -111,10 +162,10 @@
 
 ---
 
-### Cyber Bonsai Garden
+### 🪴 Cyber Bonsai Garden &amp; Digital Pets
 
 <div align="center">
-  <img width="100%" src="assets/cyber-garden.svg" alt="Cyber Bonsai Garden & Digital Pets" />
+  <img width="100%" src="assets/cyber-garden.svg" alt="Cyber Bonsai Garden &amp; Digital Pets" />
 </div>
 
 ---
