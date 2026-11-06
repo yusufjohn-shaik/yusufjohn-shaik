@@ -1,0 +1,39 @@
+# Python & Testing
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Tool & Scratch Artifacts
+.superpowers/
+.gemini/
+*.log
+
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor & IDE Directories
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Environment & Local Secrets
+.env
+.env.local
+.env.*.local
+
+# Temporary & Build Outputs
+dist/
+tmp/
+*.tmp
