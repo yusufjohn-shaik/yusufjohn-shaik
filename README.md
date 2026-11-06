@@ -70,19 +70,19 @@
 
 <p align="center">
   <a href="https://github.com/yusufjohn-shaik/project-Helix">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yusufjohn-shaik&repo=project-Helix&bg_color=0b0f17&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0&border_color=1e293b" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=yusufjohn-shaik&repo=project-Helix&bg_color=0b0f17&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0&border_color=1e293b" alt="project-Helix" />
   </a>
   <a href="https://github.com/yusufjohn-shaik/dsa-prep">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yusufjohn-shaik&repo=dsa-prep&bg_color=0b0f17&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0&border_color=1e293b" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=yusufjohn-shaik&repo=dsa-prep&bg_color=0b0f17&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0&border_color=1e293b" alt="dsa-prep" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/yusufjohn-shaik/razorpay-revenue-recovery">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yusufjohn-shaik&repo=razorpay-revenue-recovery&bg_color=0b0f17&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0&border_color=1e293b" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=yusufjohn-shaik&repo=razorpay-revenue-recovery&bg_color=0b0f17&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0&border_color=1e293b" alt="razorpay-revenue-recovery" />
   </a>
   <a href="https://github.com/yusufjohn-shaik/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yusufjohn-shaik&repo=portfolio&bg_color=0b0f17&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0&border_color=1e293b" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=yusufjohn-shaik&repo=portfolio&bg_color=0b0f17&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0&border_color=1e293b" alt="portfolio" />
   </a>
 </p>
 
@@ -96,8 +96,8 @@
 
 <!-- GitHub Stats & Streak Cards -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yusufjohn-shaik&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0f17&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yusufjohn-shaik&theme=tokyonight&hide_border=true&background=0b0f17&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" height="165" alt="Streak Tracker" />
+  <img src="https://github-stats-extended.vercel.app/api?username=yusufjohn-shaik&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0f17&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0" height="165" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=yusufjohn-shaik&theme=tokyonight&hide_border=true&background=0b0f17&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" height="165" alt="Streak Tracker" />
 </p>
 
 <!-- LeetCode Heatmap Card -->
@@ -111,14 +111,13 @@
 
 ---
 
-<!--## 🐍 Contribution Activity
+### 🐍 Contribution Activity
 
 <div align="center">
   <img width="100%" src="https://raw.githubusercontent.com/yusufjohn-shaik/yusufjohn-shaik/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
 </div>
 
 ---
--->
 
 <div align="center">
 
