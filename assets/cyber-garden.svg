@@ -1,0 +1,443 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 260" width="100%" height="auto" shape-rendering="crispEdges">
+  <defs>
+    <!-- Soft neon glow filters -->
+    <filter id="neon-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <filter id="subtle-glow" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="1.5" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    /* Swaying animation for bonsai foliage */
+    .breeze-sway {
+      transform-origin: 435px 145px;
+      animation: gentle-breeze 5.5s ease-in-out infinite alternate;
+    }
+    @keyframes gentle-breeze {
+      0% { transform: rotate(0deg); }
+      50% { transform: rotate(1deg) skewX(0.5deg); }
+      100% { transform: rotate(-0.8deg); }
+    }
+
+    /* Breathing neon glow */
+    .neon-pulse {
+      animation: neon-breathe 3.5s ease-in-out infinite alternate;
+    }
+    @keyframes neon-breathe {
+      0% { opacity: 0.75; }
+      50% { opacity: 1; }
+      100% { opacity: 0.85; }
+    }
+
+    /* Lantern gentle swing */
+    .lantern-sway-left {
+      transform-origin: 395px 105px;
+      animation: lantern-swing 3.2s ease-in-out infinite alternate;
+    }
+    .lantern-sway-right {
+      transform-origin: 512px 115px;
+      animation: lantern-swing 3.8s ease-in-out 0.6s infinite alternate-reverse;
+    }
+    @keyframes lantern-swing {
+      0% { transform: rotate(-3deg); }
+      100% { transform: rotate(3deg); }
+    }
+
+    /* Cat animations: Tail swish, eye blink, and floating Zzz */
+    .cat-tail {
+      transform-origin: 672px 208px;
+      animation: tail-wag 2.8s ease-in-out infinite alternate;
+    }
+    @keyframes tail-wag {
+      0% { transform: rotate(0deg); }
+      50% { transform: rotate(-12deg); }
+      100% { transform: rotate(8deg); }
+    }
+
+    .cat-eyes {
+      animation: blink-cycle 4.5s infinite;
+    }
+    @keyframes blink-cycle {
+      0%, 94%, 98%, 100% { opacity: 1; }
+      95%, 97% { opacity: 0; }
+    }
+
+    .cat-zzz-1 {
+      animation: zzz-float 3.6s ease-out infinite;
+    }
+    .cat-zzz-2 {
+      animation: zzz-float 3.6s ease-out 1.8s infinite;
+    }
+    @keyframes zzz-float {
+      0% { transform: translate(0, 0); opacity: 0; }
+      20% { opacity: 0.9; }
+      80% { opacity: 0.7; }
+      100% { transform: translate(12px, -24px); opacity: 0; }
+    }
+
+    /* Duck bobbing on water */
+    .duck-bob {
+      animation: water-bob 2.6s ease-in-out infinite alternate;
+    }
+    @keyframes water-bob {
+      0% { transform: translateY(0px) rotate(0deg); }
+      50% { transform: translateY(-3px) rotate(1.5deg); }
+      100% { transform: translateY(1.5px) rotate(-1deg); }
+    }
+
+    /* Pond ripple rings */
+    .water-ripple {
+      animation: ripple-expand 4s linear infinite;
+    }
+    @keyframes ripple-expand {
+      0% { transform: scaleX(0.7) scaleY(0.7); opacity: 0.8; }
+      100% { transform: scaleX(1.4) scaleY(1.4); opacity: 0; }
+    }
+
+    /* Drifting Petals */
+    @keyframes drift-a {
+      0% { transform: translate(0, 0) rotate(0deg); opacity: 0; }
+      15% { opacity: 0.95; }
+      85% { opacity: 0.8; }
+      100% { transform: translate(-45px, 140px) rotate(140deg); opacity: 0; }
+    }
+    @keyframes drift-b {
+      0% { transform: translate(0, 0) rotate(0deg); opacity: 0; }
+      12% { opacity: 1; }
+      85% { opacity: 0.85; }
+      100% { transform: translate(55px, 150px) rotate(-160deg); opacity: 0; }
+    }
+    @keyframes drift-c {
+      0% { transform: translate(0, 0) rotate(0deg); opacity: 0; }
+      20% { opacity: 0.9; }
+      80% { opacity: 0.75; }
+      100% { transform: translate(-30px, 125px) rotate(90deg); opacity: 0; }
+    }
+
+    .petal-anim-1 { animation: drift-a 5.8s cubic-bezier(0.4, 0, 0.2, 1) infinite; }
+    .petal-anim-2 { animation: drift-b 6.4s cubic-bezier(0.4, 0, 0.2, 1) 1.6s infinite; }
+    .petal-anim-3 { animation: drift-c 5.2s cubic-bezier(0.4, 0, 0.2, 1) 3.1s infinite; }
+    .petal-anim-4 { animation: drift-b 6.0s cubic-bezier(0.4, 0, 0.2, 1) 0.8s infinite; }
+    .petal-anim-5 { animation: drift-a 5.4s cubic-bezier(0.4, 0, 0.2, 1) 4.0s infinite; }
+    .petal-anim-6 { animation: drift-c 6.2s cubic-bezier(0.4, 0, 0.2, 1) 2.2s infinite; }
+  </style>
+
+  <!-- ================= BACKGROUND & COURTYARD ================= -->
+  <!-- Ambient Skyline Gradient & Distant Grid Horizon -->
+  <rect x="0" y="0" width="850" height="260" fill="#080c14" rx="8" />
+  <rect x="0" y="0" width="850" height="260" fill="none" stroke="#1e293b" stroke-width="1.5" rx="8" />
+
+  <!-- Subtle Cyber Matrix Stars -->
+  <g opacity="0.45">
+    <rect x="80" y="35" width="2" height="2" fill="#38bdf8" />
+    <rect x="180" y="25" width="2" height="2" fill="#ffffff" />
+    <rect x="290" y="45" width="2" height="2" fill="#38bdf8" />
+    <rect x="580" y="30" width="2" height="2" fill="#ffffff" />
+    <rect x="680" y="40" width="2" height="2" fill="#38bdf8" />
+    <rect x="760" y="25" width="2" height="2" fill="#ffffff" />
+    <rect x="420" y="20" width="2" height="2" fill="#bae6fd" />
+    <rect x="510" y="38" width="2" height="2" fill="#0ea5e9" />
+  </g>
+
+  <!-- Distant Cyber Neon Horizon Lines -->
+  <line x1="30" y1="218" x2="820" y2="218" stroke="#1e293b" stroke-width="2" />
+  <line x1="60" y1="222" x2="790" y2="222" stroke="#0ea5e9" stroke-width="1" opacity="0.35" filter="url(#subtle-glow)" />
+
+  <!-- Courtyard Stone Tiles Floor -->
+  <g id="courtyard-floor">
+    <polygon points="30,222 820,222 840,252 10,252" fill="#0c121e" />
+    <!-- Floor paver tile seams -->
+    <line x1="120" y1="222" x2="105" y2="252" stroke="#182338" stroke-width="1.5" />
+    <line x1="250" y1="222" x2="240" y2="252" stroke="#182338" stroke-width="1.5" />
+    <line x1="380" y1="222" x2="375" y2="252" stroke="#182338" stroke-width="1.5" />
+    <line x1="510" y1="222" x2="515" y2="252" stroke="#182338" stroke-width="1.5" />
+    <line x1="640" y1="222" x2="650" y2="252" stroke="#182338" stroke-width="1.5" />
+    <line x1="750" y1="222" x2="770" y2="252" stroke="#182338" stroke-width="1.5" />
+    <!-- Front edge neon runner -->
+    <rect x="10" y="252" width="830" height="2" fill="#38bdf8" opacity="0.4" filter="url(#subtle-glow)" />
+  </g>
+
+  <!-- ================= LEFT ZONE: DIGITAL KOI POND & CYBER DUCK ================= -->
+  <g id="koi-pond-zone">
+    <!-- Rockery Border -->
+    <rect x="70" y="214" width="160" height="4" fill="#1e293b" rx="2" />
+    <ellipse cx="150" cy="226" rx="72" ry="16" fill="#081528" stroke="#1e293b" stroke-width="2" />
+    <ellipse cx="150" cy="226" rx="66" ry="12" fill="#04203d" />
+
+    <!-- Neon Water Reflection Ripples -->
+    <ellipse cx="150" cy="226" rx="52" ry="8" fill="none" stroke="#0ea5e9" stroke-width="1" opacity="0.6" />
+    <ellipse cx="150" cy="226" rx="34" ry="5" fill="none" stroke="#38bdf8" stroke-width="1" opacity="0.8" class="neon-pulse" />
+
+    <!-- Cyber Lotus Flower -->
+    <g transform="translate(192, 218)">
+      <rect x="0" y="2" width="12" height="4" fill="#0284c7" rx="1" />
+      <rect x="2" y="0" width="8" height="6" fill="#38bdf8" rx="1" filter="url(#subtle-glow)" />
+      <rect x="4" y="-2" width="4" height="4" fill="#bae6fd" />
+      <rect x="5" y="-1" width="2" height="2" fill="#ffffff" />
+    </g>
+
+    <!-- Cute Digital Pet 1: Cyber Rubber Duck with Headphones -->
+    <g class="duck-bob" transform="translate(132, 206)">
+      <!-- Duck Shadow -->
+      <ellipse cx="12" cy="18" rx="14" ry="4" fill="#021324" opacity="0.7" />
+
+      <!-- Duck Body (Neon Gold / Cyber Cyan Accent) -->
+      <ellipse cx="12" cy="12" rx="11" ry="8" fill="#facc15" />
+      <polygon points="1,11 6,8 5,14" fill="#eab308" /> <!-- Tail -->
+      <!-- Duck Wing -->
+      <ellipse cx="10" cy="13" rx="5" ry="3" fill="#eab308" />
+
+      <!-- Duck Head -->
+      <circle cx="17" cy="6" r="6" fill="#facc15" />
+      <!-- Bill / Beak -->
+      <polygon points="22,6 27,8 22,9" fill="#f97316" />
+      <!-- Eye -->
+      <circle cx="18" cy="5" r="1.2" fill="#0f172a" />
+      <rect x="18" y="4" width="0.8" height="0.8" fill="#ffffff" />
+
+      <!-- Cyber Headset / Headphones -->
+      <path d="M 13,6 A 5,5 0 0,1 21,6" fill="none" stroke="#38bdf8" stroke-width="1.8" filter="url(#subtle-glow)" />
+      <rect x="12" y="5" width="2.5" height="4" rx="1" fill="#0284c7" />
+      <rect x="20" y="5" width="2.5" height="4" rx="1" fill="#0284c7" />
+      <rect x="12.5" y="6" width="1.5" height="2" fill="#38bdf8" />
+      <rect x="20.5" y="6" width="1.5" height="2" fill="#38bdf8" />
+    </g>
+  </g>
+
+  <!-- ================= CENTER ZONE: THE GRAND CYBER BONSAI ================= -->
+  <g id="grand-bonsai-zone">
+    <!-- Stand Platform -->
+    <rect x="365" y="214" width="140" height="6" fill="#090d16" />
+    <rect x="375" y="218" width="120" height="2" fill="#1e293b" />
+    <rect x="390" y="219" width="90" height="1" fill="#38bdf8" opacity="0.5" filter="url(#subtle-glow)" />
+
+    <!-- Bonsai Hexagonal Pot -->
+    <g id="pot">
+      <!-- Legs -->
+      <rect x="382" y="206" width="10" height="8" fill="#090d16" />
+      <rect x="478" y="206" width="10" height="8" fill="#090d16" />
+      <!-- Pot body -->
+      <polygon points="374,186 496,186 488,208 382,208" fill="#0f172a" />
+      <polygon points="378,188 492,188 485,206 385,206" fill="#131d33" />
+      <!-- Neon pot inlay -->
+      <rect x="390" y="196" width="90" height="2.5" fill="#38bdf8" class="neon-pulse" filter="url(#subtle-glow)" />
+      <!-- Pot Rim -->
+      <rect x="368" y="182" width="134" height="5" fill="#1e293b" rx="1" />
+      <rect x="370" y="183" width="130" height="1.5" fill="#334155" />
+      <!-- Cyber Moss -->
+      <rect x="378" y="178" width="114" height="4" fill="#0369a1" />
+      <rect x="390" y="177" width="18" height="3" fill="#0ea5e9" />
+      <rect x="430" y="177" width="22" height="3" fill="#38bdf8" opacity="0.8" />
+      <rect x="466" y="177" width="16" height="3" fill="#0ea5e9" />
+    </g>
+
+    <!-- Bonsai Gnarled Trunk -->
+    <g id="trunk">
+      <polygon points="426,178 448,178 444,152 422,152" fill="#181e2b" />
+      <polygon points="429,178 443,178 440,152 425,152" fill="#242d3d" />
+      <rect x="428" y="156" width="4" height="14" fill="#3b485d" />
+
+      <!-- Left curving branch -->
+      <polygon points="422,152 432,150 398,118 392,122" fill="#181e2b" />
+      <polygon points="392,122 398,118 368,112 366,116" fill="#242d3d" />
+
+      <!-- Center apex trunk -->
+      <polygon points="432,150 444,152 440,105 430,105" fill="#181e2b" />
+      <polygon points="434,150 441,150 438,105 432,105" fill="#242d3d" />
+      <polygon points="430,105 440,105 437,68 431,68" fill="#181e2b" />
+      <polygon points="432,105 438,105 436,68 433,68" fill="#242d3d" />
+
+      <!-- Sweeping right branch -->
+      <polygon points="438,136 444,142 482,126 480,120" fill="#181e2b" />
+      <polygon points="480,120 482,126 518,118 516,112" fill="#242d3d" />
+      <polygon points="516,112 518,118 542,114 540,110" fill="#181e2b" />
+    </g>
+
+    <!-- Hanging Lanterns -->
+    <!-- Left Lantern -->
+    <g class="lantern-sway-left">
+      <line x1="395" y1="105" x2="395" y2="116" stroke="#38bdf8" stroke-width="1" opacity="0.8" />
+      <rect x="391" y="116" width="8" height="2" fill="#1e293b" />
+      <rect x="392" y="118" width="6" height="7" fill="#0284c7" />
+      <rect x="393" y="119" width="4" height="5" fill="#38bdf8" class="neon-pulse" filter="url(#subtle-glow)" />
+      <rect x="394" y="120" width="2" height="3" fill="#ffffff" />
+      <rect x="391" y="125" width="8" height="2" fill="#1e293b" />
+    </g>
+
+    <!-- Right Lantern -->
+    <g class="lantern-sway-right">
+      <line x1="512" y1="115" x2="512" y2="126" stroke="#38bdf8" stroke-width="1" opacity="0.8" />
+      <rect x="508" y="126" width="8" height="2" fill="#1e293b" />
+      <rect x="509" y="128" width="6" height="7" fill="#0284c7" />
+      <rect x="510" y="129" width="4" height="5" fill="#38bdf8" class="neon-pulse" filter="url(#subtle-glow)" />
+      <rect x="511" y="130" width="2" height="3" fill="#ffffff" />
+      <rect x="508" y="135" width="8" height="2" fill="#1e293b" />
+    </g>
+
+    <!-- Foliage Canopy with Breeze Sway -->
+    <g class="breeze-sway" id="foliage-canopy">
+      <!-- Left Clump (x: 345-405, y: 92-126) -->
+      <rect x="345" y="104" width="56" height="20" rx="3" fill="#0369a1" />
+      <rect x="350" y="96" width="46" height="28" rx="2" fill="#0284c7" />
+      <rect x="355" y="92" width="34" height="18" rx="2" fill="#0ea5e9" />
+      <rect x="360" y="90" width="22" height="10" rx="1" fill="#38bdf8" />
+      <rect x="364" y="88" width="10" height="4" fill="#bae6fd" class="neon-pulse" />
+      <rect x="368" y="89" width="4" height="2" fill="#ffffff" />
+
+      <!-- Center Apex Clump (x: 405-470, y: 48-88) -->
+      <rect x="402" y="60" width="68" height="28" rx="3" fill="#0369a1" />
+      <rect x="410" y="52" width="52" height="34" rx="3" fill="#0284c7" />
+      <rect x="416" y="46" width="40" height="22" rx="2" fill="#0ea5e9" />
+      <rect x="422" y="42" width="28" height="12" rx="1" fill="#38bdf8" />
+      <rect x="428" y="38" width="14" height="5" fill="#bae6fd" class="neon-pulse" filter="url(#subtle-glow)" />
+      <rect x="432" y="40" width="6" height="2" fill="#ffffff" />
+
+      <!-- Right Sweeping Clump (x: 485-555, y: 88-124) -->
+      <rect x="488" y="100" width="64" height="22" rx="3" fill="#0369a1" />
+      <rect x="496" y="92" width="48" height="28" rx="2" fill="#0284c7" />
+      <rect x="504" y="88" width="34" height="18" rx="2" fill="#0ea5e9" />
+      <rect x="510" y="84" width="22" height="10" rx="1" fill="#38bdf8" />
+      <rect x="516" y="82" width="12" height="4" fill="#bae6fd" class="neon-pulse" />
+      <rect x="520" y="83" width="5" height="2" fill="#ffffff" />
+    </g>
+  </g>
+
+  <!-- ================= RIGHT ZONE: COZY SANCTUARY & RETRO CYBER CAT ================= -->
+  <g id="cyber-cat-zone">
+    <!-- Elevated Tatami Bed / Neon Cushion Platform -->
+    <rect x="635" y="210" width="120" height="6" fill="#090d16" rx="1" />
+    <polygon points="630,198 750,198 745,212 635,212" fill="#0f172a" />
+    <polygon points="634,200 746,200 742,210 638,210" fill="#162238" />
+    <line x1="636" y1="209" x2="744" y2="209" stroke="#38bdf8" stroke-width="1.5" class="neon-pulse" filter="url(#subtle-glow)" />
+
+    <!-- Mini Succulent Planter beside cat -->
+    <g transform="translate(726, 178)">
+      <polygon points="6,20 18,20 16,30 8,30" fill="#1e293b" />
+      <rect x="5" y="18" width="14" height="2" fill="#38bdf8" opacity="0.7" />
+      <!-- Sprout -->
+      <rect x="11" y="10" width="2" height="8" fill="#0ea5e9" />
+      <rect x="8" y="12" width="4" height="3" fill="#38bdf8" rx="1" />
+      <rect x="12" y="14" width="4" height="3" fill="#38bdf8" rx="1" />
+      <rect x="10" y="8" width="4" height="3" fill="#bae6fd" />
+    </g>
+
+    <!-- Digital Pet 2: Retro Pixel Cat -->
+    <g id="pixel-cat" transform="translate(648, 168)">
+      <!-- Soft Cat Body Shadow -->
+      <ellipse cx="32" cy="34" rx="28" ry="6" fill="#090e18" opacity="0.6" />
+
+      <!-- Cat Curled Body (Dark Charcoal Coat) -->
+      <ellipse cx="32" cy="24" rx="22" ry="12" fill="#1a202c" />
+      <ellipse cx="32" cy="23" rx="19" ry="10" fill="#242d3d" />
+
+      <!-- White Paws / Socks -->
+      <ellipse cx="18" cy="28" rx="4" ry="2.5" fill="#e2e8f0" />
+      <ellipse cx="25" cy="29" rx="4" ry="2.5" fill="#cbd5e1" />
+
+      <!-- Animated Swishing Tail -->
+      <g class="cat-tail">
+        <path d="M 52,24 Q 66,20 62,10" fill="none" stroke="#242d3d" stroke-width="4.5" stroke-linecap="round" />
+        <circle cx="62" cy="10" r="2.5" fill="#e2e8f0" /> <!-- White tail tip -->
+      </g>
+
+      <!-- Cat Head -->
+      <circle cx="20" cy="15" r="9" fill="#1a202c" />
+      <circle cx="20" cy="15" r="8" fill="#242d3d" />
+
+      <!-- Cat Ears -->
+      <polygon points="12,12 15,4 19,10" fill="#1a202c" />
+      <polygon points="14,11 16,6 18,10" fill="#38bdf8" opacity="0.6" /> <!-- Inner cyan ear glow -->
+      <polygon points="21,10 25,4 28,12" fill="#1a202c" />
+      <polygon points="22,10 24,6 26,11" fill="#38bdf8" opacity="0.6" />
+
+      <!-- Cyan Neon Collar -->
+      <rect x="16" y="21" width="9" height="2" fill="#0284c7" />
+      <rect x="17" y="21.5" width="7" height="1" fill="#38bdf8" filter="url(#subtle-glow)" />
+      <circle cx="20.5" cy="23.5" r="1" fill="#bae6fd" /> <!-- Bell/Tag -->
+
+      <!-- Animated Cute Blinking Eyes -->
+      <g class="cat-eyes">
+        <!-- Open Eyes: Vibrant Cyan Pixel Eyes -->
+        <circle cx="16" cy="15" r="1.5" fill="#38bdf8" filter="url(#subtle-glow)" />
+        <rect x="16.5" y="14.5" width="0.8" height="0.8" fill="#ffffff" />
+        <circle cx="22" cy="15" r="1.5" fill="#38bdf8" filter="url(#subtle-glow)" />
+        <rect x="22.5" y="14.5" width="0.8" height="0.8" fill="#ffffff" />
+      </g>
+
+      <!-- Cute Nose & Whisker Dots -->
+      <polygon points="18.5,18 20.5,18 19.5,19" fill="#f472b6" />
+      <line x1="12" y1="17" x2="8" y2="16" stroke="#475569" stroke-width="0.8" />
+      <line x1="12" y1="19" x2="7" y2="20" stroke="#475569" stroke-width="0.8" />
+      <line x1="26" y1="17" x2="30" y2="16" stroke="#475569" stroke-width="0.8" />
+      <line x1="26" y1="19" x2="31" y2="20" stroke="#475569" stroke-width="0.8" />
+
+      <!-- Floating Animated Sleeping Zzz / Cyber Dreams -->
+      <g class="cat-zzz-1" transform="translate(28, 6)">
+        <text font-family="'Fira Code', monospace" font-size="8" font-weight="bold" fill="#38bdf8" opacity="0.85">z</text>
+      </g>
+      <g class="cat-zzz-2" transform="translate(34, 0)">
+        <text font-family="'Fira Code', monospace" font-size="10" font-weight="bold" fill="#bae6fd" opacity="0.9">Z</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- ================= DRIFTING BLOSSOM PETALS ACROSS GARDEN ================= -->
+  <g id="drifting-petals">
+    <!-- Petal 1: Near apex drifting left -->
+    <g transform="translate(415, 68)">
+      <g class="petal-anim-1">
+        <rect x="0" y="0" width="3" height="3" fill="#38bdf8" filter="url(#subtle-glow)" />
+        <rect x="1" y="1" width="1.5" height="1.5" fill="#ffffff" />
+      </g>
+    </g>
+
+    <!-- Petal 2: Near right branch drifting toward cat -->
+    <g transform="translate(525, 102)">
+      <g class="petal-anim-2">
+        <rect x="0" y="0" width="3.5" height="3.5" fill="#7dd3fc" filter="url(#subtle-glow)" />
+        <rect x="1" y="0.5" width="1.5" height="1.5" fill="#ffffff" />
+      </g>
+    </g>
+
+    <!-- Petal 3: Over pond toward duck -->
+    <g transform="translate(260, 95)">
+      <g class="petal-anim-3">
+        <rect x="0" y="0" width="3" height="3" fill="#38bdf8" />
+        <rect x="0.5" y="0.5" width="1.5" height="1.5" fill="#ffffff" />
+      </g>
+    </g>
+
+    <!-- Petal 4: Near left foliage clump -->
+    <g transform="translate(365, 115)">
+      <g class="petal-anim-4">
+        <rect x="0" y="0" width="3" height="2.5" fill="#0ea5e9" filter="url(#subtle-glow)" />
+        <rect x="1" y="0.5" width="1.5" height="1.5" fill="#bae6fd" />
+      </g>
+    </g>
+
+    <!-- Petal 5: Drifting low right -->
+    <g transform="translate(580, 130)">
+      <g class="petal-anim-5">
+        <rect x="0" y="0" width="3" height="3" fill="#38bdf8" />
+        <rect x="1" y="1" width="1" height="1" fill="#ffffff" />
+      </g>
+    </g>
+
+    <!-- Petal 6: Floating mid-garden -->
+    <g transform="translate(460, 80)">
+      <g class="petal-anim-6">
+        <rect x="0" y="0" width="2.5" height="2.5" fill="#bae6fd" filter="url(#subtle-glow)" />
+      </g>
+    </g>
+  </g>
+</svg>
