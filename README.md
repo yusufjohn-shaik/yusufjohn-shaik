@@ -45,7 +45,7 @@
       </p>
     </td>
     <td width="38%" align="center" valign="middle">
-      <img src="assets/cyber-bonsai.svg" width="300" height="263" alt="Pixel-Art Cyber Bonsai" />
+      <img src="https://media.giphy.com/media/P8ef3Dkynk0xLx1h1T/giphy.gif" width="300" alt="Coding Cat GIF" style="border-radius: 10px;" />
     </td>
   </tr>
 </table>
@@ -111,10 +111,10 @@
 
 ---
 
-### 🐍 Contribution Activity
+### 🪴 Cyber Bonsai Garden & Digital Pets
 
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/yusufjohn-shaik/yusufjohn-shaik/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
+  <img width="100%" src="assets/cyber-garden.svg" alt="Cyber Bonsai Garden & Digital Pets" />
 </div>
 
 ---
