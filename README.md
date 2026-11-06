@@ -111,13 +111,14 @@
 
 ---
 
-### 🐍 Contribution Activity
+<!--## 🐍 Contribution Activity
 
 <div align="center">
   <img width="100%" src="https://raw.githubusercontent.com/yusufjohn-shaik/yusufjohn-shaik/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
 </div>
 
 ---
+-->
 
 <div align="center">
 
