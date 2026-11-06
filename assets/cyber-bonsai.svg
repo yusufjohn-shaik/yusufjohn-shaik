@@ -1,13 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 280" width="100%" height="auto" shape-rendering="crispEdges">
   <defs>
     <!-- Filter for soft neon glow effects -->
-    <filter id="neon-glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="3" result="blur" />
-      <feMerge>
-        <feMergeNode in="blur" />
-        <feMergeNode in="SourceGraphic" />
-      </feMerge>
-    </filter>
     <filter id="subtle-glow" x="-10%" y="-10%" width="120%" height="120%">
       <feGaussianBlur stdDeviation="1.5" result="blur" />
       <feMerge>
@@ -39,9 +32,9 @@
       100% { opacity: 0.85; }
     }
 
-    /* Lantern gentle sway */
+    /* Lantern gentle sway anchored at top of cord (226, 126) */
     .lantern-sway {
-      transform-origin: 226px 132px;
+      transform-origin: 226px 126px;
       animation: lantern-swing 3.2s ease-in-out infinite alternate;
     }
     @keyframes lantern-swing {
@@ -160,7 +153,7 @@
 
   <!-- Hanging Cyber Lantern on Right Branch -->
   <g class="lantern-sway" id="lantern">
-    <!-- Thin Suspension Cord -->
+    <!-- Thin Suspension Cord anchored at (226, 126) -->
     <line x1="226" y1="126" x2="226" y2="138" stroke="#38bdf8" stroke-width="1" opacity="0.8" />
     <!-- Lantern Cap -->
     <rect x="222" y="138" width="8" height="2" fill="#1e293b" />
@@ -233,35 +226,45 @@
     </g>
   </g>
 
-  <!-- Animated Drifting Cyber Petals -->
+  <!-- Animated Drifting Cyber Petals (Nested positioning avoids CSS transform collision) -->
   <g id="petals">
     <!-- Petal 1 (Drifting from apex toward left) -->
-    <g class="petal-1" transform="translate(148, 85)">
-      <rect x="0" y="0" width="3" height="3" fill="#38bdf8" filter="url(#subtle-glow)" />
-      <rect x="1" y="1" width="1.5" height="1.5" fill="#ffffff" />
+    <g transform="translate(148, 85)">
+      <g class="petal-1">
+        <rect x="0" y="0" width="3" height="3" fill="#38bdf8" filter="url(#subtle-glow)" />
+        <rect x="1" y="1" width="1.5" height="1.5" fill="#ffffff" />
+      </g>
     </g>
 
     <!-- Petal 2 (Drifting from right branch downward) -->
-    <g class="petal-2" transform="translate(230, 120)">
-      <rect x="0" y="0" width="3" height="3" fill="#7dd3fc" filter="url(#subtle-glow)" />
-      <rect x="1" y="0.5" width="1.5" height="1.5" fill="#ffffff" />
+    <g transform="translate(230, 120)">
+      <g class="petal-2">
+        <rect x="0" y="0" width="3" height="3" fill="#7dd3fc" filter="url(#subtle-glow)" />
+        <rect x="1" y="0.5" width="1.5" height="1.5" fill="#ffffff" />
+      </g>
     </g>
 
     <!-- Petal 3 (Drifting from left tier) -->
-    <g class="petal-3" transform="translate(95, 145)">
-      <rect x="0" y="0" width="2.5" height="2.5" fill="#38bdf8" />
-      <rect x="0.5" y="0.5" width="1.5" height="1.5" fill="#ffffff" />
+    <g transform="translate(95, 145)">
+      <g class="petal-3">
+        <rect x="0" y="0" width="2.5" height="2.5" fill="#38bdf8" />
+        <rect x="0.5" y="0.5" width="1.5" height="1.5" fill="#ffffff" />
+      </g>
     </g>
 
     <!-- Petal 4 (Drifting from mid-apex toward right) -->
-    <g class="petal-4" transform="translate(175, 95)">
-      <rect x="0" y="0" width="3" height="2.5" fill="#0ea5e9" filter="url(#subtle-glow)" />
-      <rect x="1" y="0.5" width="1.5" height="1.5" fill="#bae6fd" />
+    <g transform="translate(175, 95)">
+      <g class="petal-4">
+        <rect x="0" y="0" width="3" height="2.5" fill="#0ea5e9" filter="url(#subtle-glow)" />
+        <rect x="1" y="0.5" width="1.5" height="1.5" fill="#bae6fd" />
+      </g>
     </g>
 
     <!-- Petal 5 (Floating near pot) -->
-    <g class="petal-5" transform="translate(125, 110)">
-      <rect x="0" y="0" width="2.5" height="2.5" fill="#38bdf8" />
+    <g transform="translate(125, 110)">
+      <g class="petal-5">
+        <rect x="0" y="0" width="2.5" height="2.5" fill="#38bdf8" />
+      </g>
     </g>
   </g>
 </svg>

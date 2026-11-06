@@ -3,7 +3,8 @@ import os
 import sys
 
 def test_svg_validity_and_structure():
-    svg_path = "assets/cyber-bonsai.svg"
+    repo_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    svg_path = os.path.join(repo_root, "assets", "cyber-bonsai.svg")
     assert os.path.exists(svg_path), f"{svg_path} does not exist"
     
     # Check valid XML parse
@@ -21,6 +22,17 @@ def test_svg_validity_and_structure():
     assert "petal-drift" in content or "petal" in content, "Missing petal animation keyframes"
     assert "#38bdf8" in content, "Missing neon cyan palette (#38bdf8)"
     assert 'shape-rendering="crispEdges"' in content or 'crispEdges' in content, "Missing crispEdges rendering"
+    
+    # Verify petals have nested positioning <g> to prevent CSS transform collision
+    petals_group = root.find('.//*[@id="petals"]')
+    assert petals_group is not None, "Missing petals group"
+    for child in petals_group:
+        # Each child should be a positioning <g> with transform attribute
+        assert child.attrib.get('transform', '').startswith('translate'), f"Petal parent missing translate: {child.attrib}"
+        # The inner element should have the animated petal class
+        inner = list(child)
+        assert len(inner) > 0, "Missing inner animated petal element"
+        assert any('petal-' in inner_elem.attrib.get('class', '') for inner_elem in inner), "Inner element missing petal class"
 
 if __name__ == "__main__":
     try:

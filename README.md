@@ -45,7 +45,7 @@
       </p>
     </td>
     <td width="38%" align="center" valign="middle">
-      <img src="assets/cyber-bonsai.svg" width="300" alt="Pixel-Art Cyber Bonsai" />
+      <img src="assets/cyber-bonsai.svg" width="300" height="263" alt="Pixel-Art Cyber Bonsai" />
     </td>
   </tr>
 </table>
