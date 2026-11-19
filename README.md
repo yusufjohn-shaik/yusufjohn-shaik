@@ -101,7 +101,7 @@
 ### 💻 Developer Terminal
 
 ```bash
-┌──(yusuf㉿cyber-system)-[~]
+┌──(yusuf_john)-[~]
 └─$ curl -s https://api.yusufjohn.dev/profile | jq .
 {
   "developer": "Shaik Yusuf John",
